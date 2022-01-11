@@ -4,7 +4,7 @@
 
 The aim of this project is to provide an exemplary solution on how the checkout process can be skipped using cloud-based mobile shopping and payment for stationary retailers. 
 
-After a registration shoppers can scan the barcode of the products they add to their shopping cart with their mobile phone. They can finalize the purcase and leave the store after scanning the QR code at a skip-checkout counter. 
+After a registration shoppers can scan the barcode of the products they add to their shopping cart with their mobile phone. They can finalize the purchase and leave the store after scanning the QR code at a skip-checkout counter. 
 All successful purchases are persisted in a database. The shop owner has access to this data in a dashboard and can manually intervene if a purchase has been marked for a pending bag check due to fraud detection. 
 
 ## Built with
