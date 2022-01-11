@@ -4,7 +4,7 @@
 
 ## Contribution Prerequisites 
 
-- You have [yarn](https://yarnpkg.com/en/) and [RestJS](https://reactjs.org/) installed.
+- You have [Node.js](https://nodejs.org/en/) and  [yarn](https://yarnpkg.com/en/) installed.
 - You have [JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html) Version 8 installed. 
 
 ## Branch Organization
